@@ -1,2 +1,2 @@
 # blog
-Ablog
+Here is a simple blog
