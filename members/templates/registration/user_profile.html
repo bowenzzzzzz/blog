@@ -8,9 +8,9 @@
 
 <div class="card mb-3">
     <div class="row g-0">
-        <div class="col-md-2">       
+        <div class="col-md-2">
             {% if page_user.profile_pic %}
-                    <img src="{{page_user.profile_pic.url}}" class="card-image">
+                    <img src="{{page_user.profile_pic.url }}" class="card-image" width="200px">
             {% else %}
                 <img src="{% static 'theblog/images/default.png' %}">
             {% endif %}       

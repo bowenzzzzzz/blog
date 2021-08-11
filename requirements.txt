@@ -2,6 +2,7 @@ asgiref==3.4.1
 Django==3.2.5
 django-ckeditor==6.1.0
 django-js-asset==1.2.2
+mysqlclient @ file:///F:/project/ready_for_deploy_blog/blog/mysqlclient-1.4.6-cp38-cp38-win32.whl
 Pillow==8.3.1
 pytz==2021.1
 sqlparse==0.4.1
